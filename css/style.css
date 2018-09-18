@@ -1,0 +1,13 @@
+li:hover {
+	background-color: tomato;
+	transition: 0.7s;
+	cursor: pointer;
+}
+
+span{
+	float: right;
+}
+
+.btn-toolbar .btn {
+    margin-bottom: 5px;
+}
